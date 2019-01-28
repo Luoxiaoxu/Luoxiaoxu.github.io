@@ -1,2 +1,2 @@
-https://xiaoxu.online/知乎爬虫.html
-https://xiaoxu.online/博客搭建.html
+https://xiaoxu.online/zhihuspider.html
+https://xiaoxu.online/blogconstruct.html
